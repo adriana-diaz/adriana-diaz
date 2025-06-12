@@ -10,11 +10,15 @@ I'm currently studying Computer Systems Engineering at Universidad Latina de Cos
 
 - 🛒 [**appCafebit**](https://github.com/adriana-diaz/appCafebit) – Mobile platform for an online store where users can browse products, add them to a shopping cart, and securely complete purchases. *(Built with .NET MAUI)*
 
-- 🧠 [**trabajos-U**](https://github.com/adriana-diaz/trabajos-U) – Collection of my university coursework including labs and exercises using:
-  - T-SQL (51%)
-  - C++ (21.8%)
-  - Java (14.8%)
-  - HTML, CSS, C#, and others
+- 🧠 [**trabajos-U**](#) – Collection of my university coursework including labs and exercises using:
+
+  - T-SQL (63.7%)
+  - C++ (16.2%)
+  - Java (11.0%)
+  - HTML (6.6%)
+  - C# (1.4%)
+  - CSS (0.4%)
+  - Others (0.7%)
 
 - 🐍 [**python-scripts**](https://github.com/adriana-diaz/python-scripts) – My personal Python notes and beginner-level practice scripts.
 
