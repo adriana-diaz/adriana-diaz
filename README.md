@@ -1,4 +1,4 @@
-# Hi, I'm Adriana Díaz 👩‍💻 Computer Systems Engineering 
+# Hi, I'm Adriana Díaz 👩‍💻 Computer Systems Engineer
 
 I'm a Computer Systems Engineer graduate at Universidad Latina de Costa Rica. This GitHub profile is where I store and showcase the projects I’ve built while learning programming, web development, data analysis, and software tools.
 
