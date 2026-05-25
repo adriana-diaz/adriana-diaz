@@ -1,6 +1,6 @@
-# Hi, I'm Adriana Díaz 👩‍💻 Computer Systems Engineering Student
+# Hi, I'm Adriana Díaz 👩‍💻 Computer Systems Engineering 
 
-I'm currently studying Computer Systems Engineering at Universidad Latina de Costa Rica. This GitHub profile is where I store and showcase the projects I’ve built while learning programming, web development, data analysis, and software tools.
+I'm a Computer Systems Engineer graduate at Universidad Latina de Costa Rica. This GitHub profile is where I store and showcase the projects I’ve built while learning programming, web development, data analysis, and software tools.
 
 🎯 This GitHub is where I store my projects, notes, and university work 
 
